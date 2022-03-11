@@ -1,6 +1,6 @@
 // Databricks notebook source
-val access_key = "AKIA22UAFDPYYDZBIXBL"
-val secret_key = "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"
+val access_key = "AKIfdkhjdkfhfkdjhfkdXBL"
+val secret_key = "hkaslkdjlakdjlkdjldj39VT4Zs"
 val encoded_secret_key = secret_key.replace("/", "%2F")
 val aws_bucket_name = "databrickprac"
 val mount_name = "viv_mount1"
